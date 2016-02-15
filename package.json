@@ -1,0 +1,36 @@
+{
+    "name": "LiveCSS",
+    "version": "0.1.0",
+    "description": "A module for AngularJS allowing you to use all the standard AngularJS bindings, directives and templating mechanisms in your CSS syntax.",
+    "keywords": [ "livecss", "lcss", "angular", "angularjs", "ng", "css" ],
+    "homepage": "www.livecss.org",
+    "repository": {
+      "type" : "git",
+      "url" : "https://github.com/CoolCode2015/LiveCSS"
+    },
+    "license": "MIT",
+    "author": {
+      "name": "Gena",
+      "email" : "happygena2015@hotmail.com"
+    },
+
+    "main": "Gruntfile.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CoolCode2015/LiveCSS"
+    },
+
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-compress": "*",
+        "grunt-contrib-watch": "*",
+        "load-grunt-tasks": "*",
+        "grunt-concurrent": "*",
+        "grunt-replace": "*",
+        "grunt-shell": "*"
+    }
+}
